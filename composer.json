@@ -3,7 +3,8 @@
     "description": "This package will allow the user to download excel from the array.",
     "type": "library",
     "require": {
-        "maatwebsite/excel": "3.1"
+        "maatwebsite/excel": "3.0",
+        "phpunit/phpunit": "8.5.x-dev"
     },
     "license": "MIT",
     "authors": [
